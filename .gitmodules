@@ -4,3 +4,9 @@
 [submodule "02-flexbox-basicos"]
 	path = 02-flexbox-basicos
 	url = https://github.com/pandc19/css-flexbox-basicos.git
+[submodule "03-cssgrid-basicos"]
+	path = 03-cssgrid-basicos
+	url = https://github.com/pandc19/cssgrid-basicos.git
+[submodule "04-selectores"]
+	path = 04-selectores
+	url = https://github.com/pandc19/css-selectores.git
