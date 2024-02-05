@@ -10,3 +10,6 @@
 [submodule "04-selectores"]
 	path = 04-selectores
 	url = https://github.com/pandc19/css-selectores.git
+[submodule "05-RWD"]
+	path = 05-RWD
+	url = https://github.com/pandc19/css-RWD.git
