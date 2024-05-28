@@ -13,3 +13,6 @@
 [submodule "05-RWD"]
 	path = 05-RWD
 	url = https://github.com/pandc19/css-RWD.git
+[submodule "07-audifonos"]
+	path = 07-audifonos
+	url = https://github.com/pandc19/css-07-audifonos.git
