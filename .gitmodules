@@ -16,3 +16,6 @@
 [submodule "07-audifonos"]
 	path = 07-audifonos
 	url = https://github.com/pandc19/css-07-audifonos.git
+[submodule "08-arquitectura"]
+	path = 08-arquitectura
+	url = https://github.com/pandc19/css-08-arquitectura.git
