@@ -19,3 +19,6 @@
 [submodule "08-arquitectura"]
 	path = 08-arquitectura
 	url = https://github.com/pandc19/css-08-arquitectura.git
+[submodule "09-BEM-basicos"]
+	path = 09-BEM-basicos
+	url = https://github.com/pandc19/css-09-BEM-basicos.git
