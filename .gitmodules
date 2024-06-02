@@ -22,3 +22,6 @@
 [submodule "09-BEM-basicos"]
 	path = 09-BEM-basicos
 	url = https://github.com/pandc19/css-09-BEM-basicos.git
+[submodule "10-nucleus-eWallet"]
+	path = 10-nucleus-eWallet
+	url = https://github.com/pandc19/css-10-nucleus-eWallet.git
