@@ -1,27 +1,27 @@
 [submodule "ecommerce"]
 	path = ecommerce
-	url = https://github.com/pandc19/css-ecommerce.git
+	url = https://github.com/japc-learning/css-ecommerce.git
 [submodule "02-flexbox-basicos"]
 	path = 02-flexbox-basicos
-	url = https://github.com/pandc19/css-flexbox-basicos.git
+	url = https://github.com/japc-learning/css-flexbox-basicos.git
 [submodule "03-cssgrid-basicos"]
 	path = 03-cssgrid-basicos
-	url = https://github.com/pandc19/cssgrid-basicos.git
+	url = https://github.com/japc-learning/cssgrid-basicos.git
 [submodule "04-selectores"]
 	path = 04-selectores
-	url = https://github.com/pandc19/css-selectores.git
+	url = https://github.com/japc-learning/css-selectores.git
 [submodule "05-RWD"]
 	path = 05-RWD
-	url = https://github.com/pandc19/css-RWD.git
+	url = https://github.com/japc-learning/css-RWD.git
 [submodule "07-audifonos"]
 	path = 07-audifonos
-	url = https://github.com/pandc19/css-07-audifonos.git
+	url = https://github.com/japc-learning/css-07-audifonos.git
 [submodule "08-arquitectura"]
 	path = 08-arquitectura
-	url = https://github.com/pandc19/css-08-arquitectura.git
+	url = https://github.com/japc-learning/css-08-arquitectura.git
 [submodule "09-BEM-basicos"]
 	path = 09-BEM-basicos
-	url = https://github.com/pandc19/css-09-BEM-basicos.git
+	url = https://github.com/japc-learning/css-09-BEM-basicos.git
 [submodule "10-nucleus-eWallet"]
 	path = 10-nucleus-eWallet
-	url = https://github.com/pandc19/css-10-nucleus-eWallet.git
+	url = https://github.com/japc-learning/css-10-nucleus-eWallet.git
